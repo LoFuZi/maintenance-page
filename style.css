@@ -1,0 +1,25 @@
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.class1 {
+    color: #ff0505;
+}
+
+.titre {
+    font-size: 3em;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.img:hover {
+    transform: scale(1.1);
+}
+
+
